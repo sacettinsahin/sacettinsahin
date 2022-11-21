@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<b>I'm currently working on Etiya.</b> <br>
-<b>I'm currently learning React.Js and Next.Js </b>
+<b>I'm currently working on Etiya and learning React.Js and Next.Js</b> <br>
+
 
 <!--
 **sacettinsahin/sacettinsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
