@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacettin.</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3> <br>
+<h3 align="center">After graduating from university as a civil engineer, I started in a project office. I imagined that some plugins could be used to speed up my work while planning the budget for my project. So I took action and started researching. This is how my interest in software started. Then I asked a software developer friend to help me. Thus, I met the power of codes. I decided to practice simple coding and started with Front End development. I realized that the more I learned, the more I admired. Personally, the approach I embraced is that choose a job you love and you will never have to work a day in your life. That's why I decided to change my profession, I wanted to do what I admire for living. After that, I started to spend all my time to be a full stack developer. I enjoy every second I spend towards this purpose.</h3> <br>
 <img align="right" width=400 alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
