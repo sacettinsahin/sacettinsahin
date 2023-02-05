@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sacettin.</h1>
-<h4 align="center">Hello,
-I'm Sacettin. I am a highly motivated software developer. I describe myself as a lifetime learner. I believe that I am a determined person and I think this is essential for success. My strongest ability is to learn on my own and quickly. I've made it a habit and a hobby to improve my skills and learn new things. It is impossible for me to express in words the pleasure of learning something new every day.
+<h4 align="center"> I am a highly motivated software developer. I describe myself as a lifetime learner. I believe that I am a determined person and I think this is essential for success. My strongest ability is to learn on my own and quickly. I've made it a habit and a hobby to improve my skills and learn new things. It is impossible for me to express in words the pleasure of learning something new every day.
 
  I have mainly worked on web projects. In my current job, I mostly work as a Front End Developer. I have experience in React and Angular frameworks. I have developed projects with most of the popular UI Libraries. I can work with APIs and create projects in line with needs. On the server side, I developed Node.js projects. I used the Express.js framework in these projects.</h4> <br>
 <img align="right" width=400 alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
